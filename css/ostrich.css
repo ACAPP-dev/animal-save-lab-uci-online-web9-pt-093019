@@ -10,6 +10,6 @@ html {
 
 /* Write your solution here */
 
-@media (min-width: 1450px) {
+@media (max-width: 1150px) {
   top: 0px;
 }
