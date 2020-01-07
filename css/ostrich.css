@@ -11,5 +11,5 @@ html {
 /* Write your solution here */
 
 @media (max-width: 1150px) {
-  top: 0px;
+  #ostrich {top: 0px;}
 }
